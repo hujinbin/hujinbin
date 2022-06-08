@@ -19,6 +19,7 @@ Repo: https://github.com/hujinbin/webpack-i18n-loader
 vite相关插件
 
 Repo: [https://github.com/hujinbin/webpack-i18n-loader](https://github.com/hujinbin/vite-plugin-vue2-jsx)
+
 Repo: [https://github.com/hujinbin/webpack-i18n-loader](https://github.com/hujinbin/vite-plugin-image-require)
 
 
