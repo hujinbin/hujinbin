@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m @hujinbin 胡金斌
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- - 👀 I’m interested in ... -->
+<!-- - 🌱 I’m currently learning ... -->
+<!-- - 💞️ I’m looking to collaborate on ... -->
+<!-- - 📫 How to reach me ... -->
 
 
 #### 🔭. Some of the open source projects I've worked on, or, are in progress:
@@ -13,6 +13,15 @@ webpack-i18n-loader 🗒 :
 配合vue-i18n使用的wepback loader，国际化全流程解决方案
 
 Repo: https://github.com/hujinbin/webpack-i18n-loader
+
+vite-plugin：
+vite相关插件
+
+Repo: [https://github.com/hujinbin/webpack-i18n-loader](https://github.com/hujinbin/vite-plugin-vue2-jsx)
+
+Repo: [https://github.com/hujinbin/webpack-i18n-loader](https://github.com/hujinbin/vite-plugin-image-require)
+
+
 
 #### 个人网站
 
