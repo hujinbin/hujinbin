@@ -16,7 +16,7 @@
 
 Repo: https://github.com/hujinbin/webpack-i18n-loader
 
-useless-files-clean-plugin
+###### useless-files-clean-plugin:
 Repo: https://github.com/hujinbin/useless-files-clean-plugin
 
 
