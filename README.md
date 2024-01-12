@@ -9,10 +9,15 @@
 
 #### 🔭. Some of the open source projects I've worked on, or, are in progress:
 
-##### webpack-i18n-loader 🗒 :
+#####  webpack插件
+
+###### webpack-i18n-loader 🗒 :
 配合vue-i18n使用的wepback loader，国际化全流程解决方案
 
 Repo: https://github.com/hujinbin/webpack-i18n-loader
+
+useless-files-clean-plugin
+Repo: https://github.com/hujinbin/useless-files-clean-plugin
 
 
 ##### vite-plugin：
@@ -21,6 +26,10 @@ vite相关插件
 Repo: [https://github.com/hujinbin/vite-plugin-vue2-jsx](https://github.com/hujinbin/vite-plugin-vue2-jsx)
 
 Repo: [https://github.com/hujinbin/vite-plugin-image-require](https://github.com/hujinbin/vite-plugin-image-require)
+
+
+#####  工具库
+Repo: [https://github.com/hujinbin/big-data-tree](https://github.com/hujinbin/big-data-tree)
 
 
 
