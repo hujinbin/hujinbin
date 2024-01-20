@@ -9,12 +9,6 @@
 
 #### 🔭. Some of the open source projects I've worked on, or, are in progress:
 
-#####  webpack插件
-
-###### webpack-i18n-loader 🗒 :
-配合vue-i18n使用的wepback loader，国际化全流程解决方案
-
-Repo: https://github.com/hujinbin/webpack-i18n-loader
 
 ###### useless-files-clean-plugin:
 Repo: https://github.com/hujinbin/useless-files-clean-plugin
