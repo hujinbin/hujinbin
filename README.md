@@ -11,15 +11,15 @@
 
 
 ###### useless-files-clean-plugin:
-Repo: https://github.com/hujinbin/useless-files-clean-plugin
+Repo: https://githubfast.com/hujinbin/useless-files-clean-plugin
 
 
 ##### vite-plugin：
 vite相关插件
 
-Repo: [https://github.com/hujinbin/vite-plugin-vue2-jsx](https://github.com/hujinbin/vite-plugin-vue2-jsx)
+Repo: [https://githubfast.com/hujinbin/vite-plugin-vue2-jsx](https://githubfast.com/hujinbin/vite-plugin-vue2-jsx)
 
-Repo: [https://github.com/hujinbin/vite-plugin-image-require](https://github.com/hujinbin/vite-plugin-image-require)
+Repo: [https://githubfast.com/hujinbin/vite-plugin-image-require](https://githubfast.com/hujinbin/vite-plugin-image-require)
 
 
 
@@ -40,3 +40,10 @@ You can click the Preview link to take a look at your changes.
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hujinbin&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+#### 不再维护的项目
+* heaven-cli-fe脚手架工具：
+* calendar-selector 日历组件：
+* infinite-scroll 滚动加载组件：
+* pull-refresh 下拉刷新组件：
+* Heaven UI： 
