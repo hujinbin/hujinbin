@@ -42,8 +42,8 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hujinbin&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 #### 不再维护的项目
-* heaven-cli-fe脚手架工具：
-* calendar-selector 日历组件：
-* infinite-scroll 滚动加载组件：
-* pull-refresh 下拉刷新组件：
-* Heaven UI： 
+* heaven-cli-fe脚手架工具： https://github.com/hujinbin/heaven-cli
+* calendar-selector 日历组件： https://github.com/hujinbin/calendar-selector
+* infinite-scroll 滚动加载组件： https://github.com/hujinbin/infinite-scroll
+* pull-refresh 下拉刷新组件： https://github.com/hujinbin/pull-refresh
+* Heaven UI：  https://github.com/hujinbin/Heaven-UI
