@@ -32,6 +32,7 @@ Repo: [https://githubfast.com/hujinbin/vite-plugin-image-require](https://github
 * 惠shop：https://coupon.leheavengame.com/
 * 乾学网：https://bbs.leheavengame.com/
 * 乾坤宝录：https://guide.leheavengame.com/
+* chatGPT：https://ai.leheavengame.com/
 
 <!---
 hujinbin/hujinbin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
