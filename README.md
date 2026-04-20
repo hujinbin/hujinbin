@@ -10,7 +10,7 @@
 ##### ✅ In Progress / Maintained（维护中 / 进行中）
 
 **1) useless-files-clean-plugin**  
-- Desc: 清理无用文件的插件（按你的实际补一句更准确的描述也行）  
+- Desc: 清理无用文件的插件
 - Repo: https://githubfast.com/hujinbin/useless-files-clean-plugin
 
 **2) Vite Plugins（Vite 相关插件）**
