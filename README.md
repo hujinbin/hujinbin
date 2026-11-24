@@ -16,26 +16,34 @@
 
 ### AI 与开发工具
 
-| 作品 | 简介 |
-| --- | --- |
-| [Heaven.ai](https://ai.leheavengame.com/) | 多模型 AI 聊天助手，支持多会话管理。 |
-| [织流 AI](https://langchain.leheavengame.com/) | AI 工作流可视化编排工具，连接文本、图片与视频模型。 |
-| [拖屏工坊](https://three.leheavengame.com/) | 3D / 2D 大屏可视化拖拽编辑器，支持数据接入与作品分享。 |
-| [Open Marker](https://marker.leheavengame.com/) | 文本与图像数据标注平台，支持任务分配、审核与数据导出。 |
-| [码匠工具集](https://tool.leheavengame.com/) | 时间戳转换、代码格式化、图片处理等日常开发工具。 |
-| [监控平台](https://monitor.leheavengame.com/) | 前端监控相关项目的在线入口。 |
+| 作品 | 网址 | 简介 |
+| --- | --- | --- |
+| [Heaven.ai](https://ai.leheavengame.com/) | [https://ai.leheavengame.com/](https://ai.leheavengame.com/) | 多模型 AI 聊天助手，支持多会话管理。 |
+| [织流 AI](https://langchain.leheavengame.com/) | [https://langchain.leheavengame.com/](https://langchain.leheavengame.com/) | AI 工作流可视化编排工具，连接文本、图片与视频模型。 |
+| [拖屏工坊](https://three.leheavengame.com/) | [https://three.leheavengame.com/](https://three.leheavengame.com/) | 3D / 2D 大屏可视化拖拽编辑器，支持数据接入与作品分享。 |
+| [Open Marker](https://marker.leheavengame.com/) | [https://marker.leheavengame.com/](https://marker.leheavengame.com/) | 文本与图像数据标注平台，支持任务分配、审核与数据导出。 |
+| [码匠工具集](https://tool.leheavengame.com/) | [https://tool.leheavengame.com/](https://tool.leheavengame.com/) | 时间戳转换、代码格式化、图片处理等日常开发工具。 |
+| [监控平台](https://monitor.leheavengame.com/) | [https://monitor.leheavengame.com/](https://monitor.leheavengame.com/) | 前端监控相关项目的在线入口。 |
+
+### 海外应用
+
+| 应用 | 网址 | 简介 |
+| --- | --- | --- |
+| [TrailWise Gear](https://gdout.domsteerai.com/) | [https://gdout.domsteerai.com/](https://gdout.domsteerai.com/) | 面向徒步与露营爱好者的户外装备评测、对比与选购指南。 |
+| [HomeStyle](https://gdhom.domsteerai.com/) | [https://gdhom.domsteerai.com/](https://gdhom.domsteerai.com/) | 家具评测、对比与选购指南，涵盖办公椅、沙发和床垫。 |
+| [DomSteer](https://domsteerai.com/) | [https://domsteerai.com/](https://domsteerai.com/) | 多模型 AI 工作空间，支持 Agent 构建、知识库与 MCP 工具接入。 |
 
 ### 博客与个人站点
 
-| 站点 | 内容 |
-| --- | --- |
-| [胡金斌的个人博客](https://hjb.leheavengame.com/) | 技术文章、项目实践与开发记录。 |
-| [惊觉社区](https://jue.leheavengame.com/) | 面向开发者的技术内容社区。 |
-| [Heaven UI](https://ui.leheavengame.com/) | Vue 组件库的文档与使用示例。 |
-| [惠shop好货](https://cash.leheavengame.com/) | 好物推荐与购物优惠。 |
-| [惠shop](https://coupon.leheavengame.com/) | 优惠券与购物优惠信息。 |
-| [乾学网](https://bbs.leheavengame.com/) | 技术交流与学习分享论坛。 |
-| [乾坤宝录](https://guide.leheavengame.com/) | 分类网址目录与网站导航。 |
+| 站点 | 网址 | 内容 |
+| --- | --- | --- |
+| [胡金斌的个人博客](https://hjb.leheavengame.com/) | [https://hjb.leheavengame.com/](https://hjb.leheavengame.com/) | 技术文章、项目实践与开发记录。 |
+| [惊觉社区](https://jue.leheavengame.com/) | [https://jue.leheavengame.com/](https://jue.leheavengame.com/) | 面向开发者的技术内容社区。 |
+| [Heaven UI](https://ui.leheavengame.com/) | [https://ui.leheavengame.com/](https://ui.leheavengame.com/) | Vue 组件库的文档与使用示例。 |
+| [惠shop好货](https://cash.leheavengame.com/) | [https://cash.leheavengame.com/](https://cash.leheavengame.com/) | 好物推荐与购物优惠。 |
+| [惠shop](https://coupon.leheavengame.com/) | [https://coupon.leheavengame.com/](https://coupon.leheavengame.com/) | 优惠券与购物优惠信息。 |
+| [乾学网](https://bbs.leheavengame.com/) | [https://bbs.leheavengame.com/](https://bbs.leheavengame.com/) | 技术交流与学习分享论坛。 |
+| [乾坤宝录](https://guide.leheavengame.com/) | [https://guide.leheavengame.com/](https://guide.leheavengame.com/) | 分类网址目录与网站导航。 |
 
 ## 🗃️ 历史项目（不再维护）
 
